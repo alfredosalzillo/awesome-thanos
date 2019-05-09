@@ -10,6 +10,9 @@ Feel free to contribute.
 
 * [Thanos JS](https://github.com/anandundavia/thanos-js) - Use the Thano's powers to reduce the size of your Project by [Anand Undavia](https://github.com/anandundavia).
 
+## Misc
+
+* [Thanos Dust](https://github.com/lichking24/Thanos_Dust) - As Thanos making a snap with the Infinite Gauntlet, half the heros vanish to dust. As using the time stone, people come back.
 
 ## License
 
